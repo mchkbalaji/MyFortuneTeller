@@ -8,7 +8,7 @@ def get_fortune(mood):
     elif mood == "excited":
         return "🎉 Your enthusiasm is contagious! Dive headfirst, Balaji—the universe is ready for your energy. 🌟"
     elif mood == "stressed":
-        return "🧘‍♂️Take a deep breath, alaji. You’re stronger than you realize, and this pressure will shape you into brilliance. 🛠!"
+        return "🧘‍♂️Take a deep breath,Balaji. You’re stronger than you realize, and this pressure will shape you into brilliance. 🛠!"
     elif mood == "angry":
         return "🔥 The fire within you is powerful, Balaji. Channel it wisely, and you’ll forge a brighter tomorrow. 🔆"
     else:
